@@ -1,0 +1,15 @@
+my:
+  app:
+    pob:
+      pid: 20
+      pcode: VIE-HYD
+      pvendor: ORCL-HYD
+      
+    version:
+      V1: 80
+      V2: 120
+      V3: 190
+    details:
+      -A
+      -B
+      -PQR
